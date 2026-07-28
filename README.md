@@ -188,3 +188,73 @@ All private routes require header: `Authorization: Bearer <token>`
 - [x] Cron Job Implementation — `backend/jobs/roiCron.js`
 - [x] README with setup, env vars, API docs, assumptions (this file)
 - [x] Postman Collection — `backend/postman_collection.json`
+
+
+---
+
+##  Features
+
+- Secure JWT Authentication
+- User Registration & Login
+- Investment Management
+- Daily ROI Calculation
+- Multi-Level Referral System
+- Referral Link Generation
+- Wallet Balance Management
+- ROI History Tracking
+- Referral Income History
+- Interactive Dashboard
+- Recharts ROI Visualization
+- Scheduled Daily ROI using node-cron
+- RESTful APIs
+- MongoDB with Mongoose
+
+---
+
+##  Application Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.jpeg)
+
+### Registration Page
+
+![Registration Page](screenshots/register.jpeg)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Investment Management
+
+![Investment Management](screenshots/investment-management.jpeg)
+
+### Referral Network
+
+![Referral Network](screenshots/referral-network.jpeg)
+
+---
+
+##  Author
+
+**Harshal Girase**
+
+- MCA Graduate
+- MERN Stack Developer
+
+GitHub:
+https://github.com/HarshalGirase11
+
+---
+
+##  Repository
+
+GitHub Repository:
+https://github.com/HarshalGirase11/nexachain-mern
+
+---
+
+##  Notes
+
+- This project was developed as part of the **NexaChain AI MERN Stack Developer Technical Assessment**.
+- The implementation follows the assessment requirements, including authentication, investment management, referral system, ROI processing, cron scheduler, API documentation, and React dashboard.
